@@ -3,23 +3,13 @@
 
 # Hello, folks‼️		:blush: :blush:
 
-現在Reactを中心にフロントエンドのお仕事を受けています。
+SPA 開発メインの front end developer です
 
 現在の自分の計画は[コチラ](https://github.com/hashibadaiki/MyManual/projects/1)
 
-職務経歴書は[コチラ](https://github.com/hashibadaiki/MyManual/blob/master/assets/%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E6%9B%B8.pdf)
+職務経歴書は[コチラ](https://github.com/hashibadaiki/MyManual/blob/master/assets/%E3%82%B9%E3%82%AD%E3%83%AB%E3%82%B7%E3%83%BC%E3%83%88202106.pdf)
 
 連絡はTwitter [![Twitter][1.2]][1]からお願いします。
-
-## &#x270d; Writing
-
-- [Qiita](https://qiita.com/baan_nasebanaru)
-毎月1記事は継続して書こうと決めて、学習初期から継続しています。
-2020/9/24時点で27記事 532Contributions
-
-- [読書記録](https://twitter.com/i/events/1229390487456374784)
-Twitterのモーメント機能を利用して読んだ本の内容を書いています。
-こちらも毎月1回は読んで書くことを意識して継続しています。
 
 ## :desktop_computer: Technologies & Tools
 
