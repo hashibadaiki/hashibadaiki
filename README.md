@@ -5,10 +5,6 @@
 
 SPA 開発メインの front end developer です
 
-現在の自分の計画は[コチラ](https://github.com/hashibadaiki/MyManual/projects/1)
-
-職務経歴書は[コチラ](https://github.com/hashibadaiki/MyManual/blob/master/assets/%E3%82%B9%E3%82%AD%E3%83%AB%E3%82%B7%E3%83%BC%E3%83%88202106.pdf)
-
 連絡はTwitter [![Twitter][1.2]][1]からお願いします。
 
 ## :desktop_computer: Technologies & Tools
