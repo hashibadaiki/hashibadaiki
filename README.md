@@ -1,6 +1,3 @@
-![header](https://raw.githubusercontent.com/hashibadaiki/hashibadaiki/master/profile.png)
-
-
 # Hello, folks‼️		:blush: :blush:
 
 SPA 開発メインの front end developer です
