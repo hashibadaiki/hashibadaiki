@@ -21,10 +21,6 @@ SPA 開発メインの front end developer です
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hashibadaiki&theme=dark&show_icons=true" />
 </a>
 
-<a href="https://github.com/hashibadaiki/hashibadaiki">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashibadaiki&langs_count=5&theme=dark&show_icons=true" />
-</a>
-
 <!-- Icons -->
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
