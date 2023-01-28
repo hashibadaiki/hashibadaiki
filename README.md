@@ -1,6 +1,6 @@
 # Hello, folks‼️		:blush: :blush:
 
-SPA 開発メインの front end developer です
+front end developer です
 
 連絡はTwitter [![Twitter][1.2]][1]からお願いします。
 
