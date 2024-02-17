@@ -1,8 +1,8 @@
 # Hello, folks‼️		:blush: :blush:
 
-front end developer です
+エンジニアです。
 
-連絡はTwitter [![Twitter][1.2]][1]からお願いします。
+連絡はTwitter [![X][1.2]][1]からお願いします。
 
 ## :desktop_computer: Technologies & Tools
 
