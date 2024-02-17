@@ -1,8 +1,5 @@
-# Hello, folks‼️		:blush: :blush:
-
+# Hello, folks‼️	
 エンジニアです。
-
-連絡はTwitter [![X][1.2]][1]からお願いします。
 
 ## :desktop_computer: Technologies & Tools
 
